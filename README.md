@@ -21,3 +21,7 @@ What is needed on the floor will be subtracted from the backstock. If there is a
 
 Most often, a full count of the backstock is not necessary. Therefore instead of doing a Count, do an Enumerate (no quantities). To subtract correctly from the backstock - i.e. to Restock - quantities will still be needed.
 
+### Comments
+In theory, performing a Count is not necessary, only accurate Adds and Restocks. Yet building inventory management up from nothing means we cannot assume we have overall numbers. Instead this chips at the whole by section and only at certain times.
+
+Currently there is something slowing down GBoard in a .ipynb. Voice transcription gets fragmented. As a result testing this tool in the field has this barrier.
