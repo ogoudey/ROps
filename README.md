@@ -1,5 +1,5 @@
 ## How it works
-This project is an ongoing solution to modernizing inventory management in an easy-to-use, $0, open-source manner. The goal is have a tool for anyone to use that enhances productivity and makes the job easier and more organized.
+This project is an ongoing solution to modernizing inventory management that is a easy-to-use, $0, and open-source. The goal is to have a tool for anyone to use that enhances productivity and makes the job easier and more organized.
 
 The basic assumed environment for using the tool is this.
 
