@@ -1,10 +1,8 @@
 # Retail Operations
 
-This project is an ongoing solution to modernizing inventory management that is a easy-to-use, $0, and open-source. The goal is to have a tool for anyone to use that enhances productivity and makes the job easier and more organized.
+This project is an ongoing solution to modernizing inventory management that is a easy-to-use, $0, and open-source. The goal is to have a tool for anyone to use that enhances productivity and makes the job easier and more organized. It tries to quantify retail environments and help workers track a storefront's inventory.
 
-So far it is not easy to use for normal people, nor is it flawless, but it is a start. The next step would probably be to make a GUI corresponding to the below Usage operations.
-
-
+So far it is _not_ easy to use for normal people, nor is it flawless, but it is a start. To address this, the next step would probably be to make a GUI corresponding to the Usage operations below. 
 
 ## Usage
 
@@ -29,5 +27,5 @@ In theory, performing a Count is not necessary, only accurate Adds and Restocks.
 Currently there is something slowing down GBoard in a .ipynb. Voice transcription gets fragmented. As a result testing this tool in the field has this barrier.
 
 ## How it Works
-
 Behind the scenes, the system uses an LLM to perform operations on informally written lists of products. For example, `"two oranges and umm three pears"` are mapped to the dictionary `{"oranges": 2, "pears": 3}' in a Count operation above.
+
