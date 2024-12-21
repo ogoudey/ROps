@@ -8,6 +8,9 @@ So far it is not easy to use for normal people, nor is it flawless, but it is a 
 
 ## Usage
 
+### Setup
+Open the python notebook and insert your API key. The rest of this section describes operations a user would do live, at work.
+
 ### Receiving Deliveries
 The inventory is added to when a delivery comes. In practice (using the terms employed here), this consists of a Count followed by an Add, or a cumulative Count.
 
